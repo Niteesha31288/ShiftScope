@@ -1,6 +1,6 @@
-<h1 align="center">Red Planet Staffing Server</h1>
+<h1 align="center">Consulting Firm</h1>
 
-This is the server application for Red Planet Staffing, the leading staffing marketplace on Mars. Built with NestJS and Prisma, it provides a robust API for managing workers, workplaces, and shifts.
+This is the server application for Consulting Firm, the leading staffing marketplace on Mars. Built with NestJS and Prisma, it provides a robust API for managing workers, workplaces, and shifts.
 
 ## Technologies
 
