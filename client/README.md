@@ -1,6 +1,6 @@
-<h1 align="center">Red Planet Staffing Client</h1>
+<h1 align="center">Consulting Firm Client</h1>
 
-This is the client application for Red Planet Staffing, the leading staffing marketplace on Mars. Built with React and Material UI, it provides a modern interface for workplaces to post shifts and workers to claim them.
+This is the client application for Consulting Firm, the leading staffing marketplace on Mars. Built with React and Material UI, it provides a modern interface for workplaces to post shifts and workers to claim them.
 
 ## Technologies
 
